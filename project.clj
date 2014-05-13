@@ -1,4 +1,4 @@
-(defproject mrmcc3/beanstalk-docker-app "0.1.0"
+(defproject beanstalk-docker-app/lein-template "0.1.0"
   :description
   "Leiningen template for generating a clojure app that runs
   both locally and on AWS Elastic Beanstalk using docker"
