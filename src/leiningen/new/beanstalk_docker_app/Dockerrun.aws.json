@@ -1,0 +1,3 @@
+{"AWSEBDockerrunVersion": "1",
+ "Ports": [{"ContainerPort": "8080"}],
+ "Logging": "/var/log/app"}
